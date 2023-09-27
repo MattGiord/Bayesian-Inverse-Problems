@@ -1,5 +1,9 @@
-% Discrete noisy observations of elliptic PDE solution
+% Copyright (c) 2023 Matteo Giordano
 %
+% Codes accompanying the article "Bayesian nonparametric inference in 
+% PDE models: asymptotic theory and implementation" by Matteo Giordano
+
+%%
 % Let O be the disk (in R^2) with radius r. Consider the 2D elliptic PDE in
 % divergence form with homogeneous Dirichlet boundary conditions:
 %
