@@ -1,3 +1,9 @@
+% Copyright (c) 2023 Matteo Giordano
+%
+% Codes accompanying the article "Bayesian nonparametric inference in 
+% PDE models: asymptotic theory and implementation" by Matteo Giordano
+
+%%
 % Bayesian nonparametric inference for the diffusivity f:O->[f_min,+infty) 
 % with Matérn process priors via the pCN algorithm
 
